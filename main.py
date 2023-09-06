@@ -3,3 +3,5 @@ def multiplicacion(a ,b):
 
 print(multiplicacion(2,2))
 print(multiplicacion(4,4))
+print(multiplicacion(42,42))
+print(multiplicacion(3,5))
