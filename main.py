@@ -12,3 +12,6 @@ def suma(a, b):
     return a + b
 
 print(suma(2,2))
+print(suma(4,4))
+print(suma(3,32))
+print(suma(1,1))
